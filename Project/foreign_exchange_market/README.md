@@ -7,7 +7,6 @@
 (4) How would you reform a financial regulation in China? Why?
 (5) What reforms would you propose to make Chinese capital markets more efficient and safer?
 
-
 # ---- Choose and evaluate ---- #
 1. Find a foreign exchange market topic.
 2. Evaluate it by data and find a result.
@@ -59,13 +58,4 @@
 
 
 
-
-
-
-
-
-
 ## Topic — 如何让人民币国际化
-
-
-
