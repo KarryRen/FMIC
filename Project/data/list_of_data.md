@@ -1,32 +1,28 @@
 # List of Data
 
-**1. Exchange rate**
+**1_ExRate**
 
 - Daily.
-- From `2010.01.01` to `2024.11.31`.
-- CNY/USD (for the situation of Exchange Market) & CNY/CNH (Marketization of exchange rates)
+- From `2016.01.04` to `2024.12.26`.
+- USDCNY  (RMB), EURCNY (RMB), JPYCNY (RMB), HKDCNY (RMB), USDCNH (RMB)
 
-**2. RMB share in global reserve**
+**2_China's_EX_Reserves** 
+
+- The China's Foreign Exchange reserves
+
+**3_GDP-Detail**
+
+- Details of GDP.
+
+**4_China_Imports_YoY**
+
+- Imports and Exports Situation.
+
+
+
+**RMB share in global reserve** <font color = red>**Not Fond**</font>
 
 - The finer the frequency, the better.
-- From `2010.01.01` to `2024.11.31`.
+- From `2016.01.01` to `2024.11.31`.
 - Countries as full as possible
-
-**3. Exchange volatility under different reforms**
-
-- Daily.
-- From `2010.01.01` to `2024.11.31`.
-- CNY/USD (for the situation of Exchange Market) & CNY/CNH (Marketization of exchange rates)
-
-**4. GDP growth / or similar currency when the exchange rate is fixed to USD vs.** 
-
-- No idea ！
-
-**5. Trade balance**
-
-- The finer the frequency, the better.
-- From `2010.01.01` to `2024.11.31`.
-- Be comprehensive, for example, have information on imports and exports.
-
-
 
